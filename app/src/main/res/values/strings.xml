@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GitApp</string>
+    <string name="github_link">GitHub Link</string>
+    <string name="username">UserName</string>
+    <string name="todo">TODO</string>
+    <string name="github_profile_link">GitHub Profile Link</string>
+    <string name="todo2">TODO2</string>
+    <string name="todo31">TODO31</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="search_here">Search Here</string>
+    <string name="search">Search</string>
+</resources>
